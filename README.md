@@ -12,7 +12,7 @@ AskMyPDF is a smart and lightweight application that lets you upload any PDF fil
 * 📌 Get full answers **and concise summaries**
 * 🧠 Summarize the entire PDF
 * 🔍 Page Tracking — identifies the page number(s) where the answer likely exists
-* ⚙️ Built with **Streamlit** UI (optional CLI version possible)
+* ⚙️ Built with **Streamlit** UI 
 
 ---
 
