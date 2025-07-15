@@ -40,8 +40,8 @@ AskMyPDF is a smart and lightweight application that lets you upload any PDF fil
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/Ask_PDF.git
-cd Ask_PDF
+git clone https://github.com/yourusername/ASK_PDF.git
+cd ASK_PDF
 
 # Create and activate virtual environment
 python -m venv venv_311
