@@ -1,5 +1,4 @@
-# ASK-PDF
-# 📄 AskMyPDF — Gemini-powered PDF Q\&A App
+# 📄 AskPDF — Gemini-powered PDF Q\&A App
 
 AskMyPDF is a smart and lightweight application that lets you upload any PDF file and ask questions related to its content. Powered by Google's Gemini API, it provides detailed answers and summaries directly from the uploaded document — with built-in **page tracking** support.
 
