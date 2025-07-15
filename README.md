@@ -92,12 +92,6 @@ streamlit run app.py
 ---
 
 
-## 📚 Sample PDF
-
-You can test with annual reports, product brochures, research papers, or books.
-
----
-
 ## 🧪 Future Improvements
 
 * Use embeddings for smarter chunk selection
