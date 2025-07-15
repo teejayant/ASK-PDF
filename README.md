@@ -11,7 +11,7 @@ AskMyPDF is a smart and lightweight application that lets you upload any PDF fil
 * 🤖 Ask natural language questions about the content
 * 📌 Get full answers **and concise summaries**
 * 🧠 Summarize the entire PDF
-* 🔍 **NEW: Page Tracking** — identifies the page number(s) where the answer likely exists
+* 🔍 Page Tracking — identifies the page number(s) where the answer likely exists
 * ⚙️ Built with **Streamlit** UI (optional CLI version possible)
 
 ---
