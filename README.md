@@ -34,6 +34,8 @@ AskMyPDF is a smart and lightweight application that lets you upload any PDF fil
 
 * Python 3.11 or 3.12
 * `pip` installed
+* check :
+* `python--version`
 
 ### 📁 Step-by-step:
 
